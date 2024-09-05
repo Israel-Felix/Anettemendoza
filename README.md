@@ -1,2 +1,1 @@
-# Anettemendoza
-Pagina cv de anette
+web
